@@ -4,5 +4,5 @@ public class Hello{
 		System.out.println("选好Fit");
 		System.out.println("明天面试");
 		System.out.println("师姐你好");
-		System.out.println("师姐好帅");
+		System.out.println("s是个号上姐好帅");
 }
